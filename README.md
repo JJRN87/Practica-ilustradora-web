@@ -1,4 +1,4 @@
-# EFE Illustration · Proyecto web de DAM
+# Portfolio Ilustradora · Proyecto web de DAM
 
 Sitio web estático desarrollado como proyecto académico de **Lenguajes de Marcas** durante el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
